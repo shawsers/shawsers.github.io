@@ -11,5 +11,7 @@ February 1, 2021 - So I decided to keep the studying train going since it worked
 April 8, 2021 - My latest certification: [Scrum Fundamentals Certified!](https://www.scrumstudy.com/certification/verify?type=SFC&number=838678)
 Took only a few days of studying, and wasn't that hard overall.  Nice way to get back into studying after about a month off after my last few Azure exams.
 
+June 9, 2021 - I decided to attempt the Gremlin Certified Chaos Engineering Practitioner exam as I was looking on LinkedIn and found that Gremlin was offering this new exam for free for a limited time.  I studied for a few days and attempted the exam and sure enough I was able to [pass the exam to earn this certification!](https://www.credential.net/899958b7-8a62-4d68-9e46-22a4b25d101b#gs.8dku72).  Pretty cool as now I am a certified Gremlin lol!!
+
 Next up is Rancher and Terraform Associate....
 
