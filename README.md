@@ -1,10 +1,10 @@
 ## Welcome to Shawsers Tech Blog!
 
-Hi everyone, below I would like to share my experience in 2020 and 2021 and writing IT exams again after many years!
-But first some of my social info and how you can contact me:
-LinkedIn - [https://www.linkedin.com/in/shawsers/](https://www.linkedin.com/in/shawsers/)
-Twitter - [https://twitter.com/jasonbshaw](https://twitter.com/jasonbshaw)
-Instagram - [https://www.instagram.com/shawsers/](https://www.instagram.com/shawsers/)
+Hi everyone, below I would like to share my experience in 2020 and 2021 and writing IT exams again after many years!  
+But first some of my social info and how you can contact me:  
+LinkedIn - [https://www.linkedin.com/in/shawsers/](https://www.linkedin.com/in/shawsers/)  
+Twitter - [https://twitter.com/jasonbshaw](https://twitter.com/jasonbshaw)  
+Instagram - [https://www.instagram.com/shawsers/](https://www.instagram.com/shawsers/)  
 
 May 11, 2020 - This was the start of my journey into writing exams again.  It has been many years since I studied for and actually wrote the exam.  The motivation for me was partially that I had a free exam voucher, but I also wanted to show and experience in Azure by actually getting certified.  I took the time, studied more than I needed to and passed the [Azure Fundamentals exam with over 90%!](https://www.credly.com/badges/5e3acbf5-38cf-4cb7-970e-1fa864e4c0b1)
 
