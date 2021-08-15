@@ -30,3 +30,4 @@ Next up is focusing on Kubernetes with some free/cheap courses to start:
 My long term plan is the following paid courses and exams (in no particular order), after the two above...
 - AWS Solution Architect Associate
 - RedHat Certified Specialist in OpenShift Administration
+- Terraform Associate Certification
