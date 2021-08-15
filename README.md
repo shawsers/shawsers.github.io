@@ -1,6 +1,7 @@
 ## Welcome to Shawsers Tech Blog!
 
 Hi everyone, below I would like to share my experience in 2020 and 2021 and writing IT exams again after many years!  
+
 But first some of my social info and how you can contact me:  
 **LinkedIn** - [https://www.linkedin.com/in/shawsers/](https://www.linkedin.com/in/shawsers/)  
 **Twitter** - [https://twitter.com/jasonbshaw](https://twitter.com/jasonbshaw)  
@@ -21,11 +22,11 @@ But first some of my social info and how you can contact me:
 
 **June 9, 2021** - I decided to attempt the Gremlin Certified Chaos Engineering Practitioner exam as I was looking on LinkedIn and found that Gremlin was offering this new exam for free for a limited time.  I learned about Gremlin and their Chaos Engineering from one of the virtual conferences I attended and really liked the concept and wanted to learn more.  I studied for a few days and attempted the exam and sure enough I was able to [pass the exam to earn this certification!](https://www.credential.net/899958b7-8a62-4d68-9e46-22a4b25d101b#gs.8dku72).  Pretty cool as now I am a certified Gremlin and I got the shirt to prove it!!
 
-Next up is focusing on Kubernetes with some free courses to start:
+Next up is focusing on Kubernetes with some free/cheap courses to start:
 - Certified Calico Operator
 - Rancher Operator: Level 1
+- Google Cloud Digital Leader
 
 My long term plan is the following paid courses and exams (in no particular order), after the two above...
-- Google Cloud Digital Leader
 - AWS Solution Architect Associate
 - RedHat Certified Specialist in OpenShift Administration
