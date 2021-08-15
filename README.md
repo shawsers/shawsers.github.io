@@ -2,11 +2,12 @@
 
 Hi everyone, below I would like to share my experience in 2020 and 2021 and writing IT exams again after many years.
 
-But first some of my social info and how you can contact me:  
-**LinkedIn** - [https://www.linkedin.com/in/shawsers/](https://www.linkedin.com/in/shawsers/)  
+First some of my social info and how you can contact me:  
+**LinkedIn** - [https://www.linkedin.com/in/shawsers/](https://www.linkedin.com/in/shawsers)  
 **Twitter** - [https://twitter.com/jasonbshaw](https://twitter.com/jasonbshaw)  
-**Instagram** - [https://www.instagram.com/shawsers/](https://www.instagram.com/shawsers/)  
+**Instagram** - [https://www.instagram.com/shawsers/](https://www.instagram.com/shawsers)  
 
+My certification journey:  
 **May 11, 2020** - This was the start of my journey into writing exams again.  It has been many years since I studied for and actually wrote the exam.  The motivation for me was partially that I had a free exam voucher, but I also wanted to show and experience in Azure by actually getting certified.  I took the time, studied more than I needed to and passed the [Azure Fundamentals exam with over 90%!](https://www.credly.com/badges/5e3acbf5-38cf-4cb7-970e-1fa864e4c0b1)
 
 **December 18, 2020** - I thought I would have wrote this exam much sooner than I did, as I was studied up in July, but felt I wasn't properly prepared and decided to wait until after the summer.  Sure enough summer went and into late fall I decided to start studying again and along came the "Get AWS Certified Global Challege" as part of AWS re:Invent so I decided to take part in that challenge and ended up passing the [AWS Certified Cloud Practitioner exam](https://www.credly.com/badges/25131d43-02be-43a5-8088-846fd9951338) just before the Christmas break!  It was a nice way to end the year for me, getting two entry level Cloud certs.
@@ -19,6 +20,7 @@ But first some of my social info and how you can contact me:
 
 **April 8, 2021** - I decided to finally take the Scrum Fundamentals exam, as I have studied for it many years ago but never wrote the free exam.  It took only a few days of studying, and wasn't that hard overall.  It was a nice way to get back into studying after a few months off after writing my last Azure exam.  I am now [Scrum Fundamentals Certified!](https://www.scrumstudy.com/certification/verify?type=SFC&number=838678)
 
+**May 6, 2021** - A day after I heard that the company I work for: Turbonomic had been acquired by IBM, I decided to look into and start learning about some of the IBM certifications available.  What I found is that IBM has a lot of free courses and certifications available here: [https://cognitiveclass.ai](https://cognitiveclass.ai), so I decided to test my knowledge in Kubernetes and how this works in IBM Cloud specifically.  I started with and passed the first course and exam for [Containers and Kubernetes Essentials](https://www.credly.com/badges/63a4ff0a-683a-43a2-973c-b3e94e49dd8a).  Next I took the course [Getting started with Microservices with Istio and IBM Cloud Kubernetes Service](https://www.credly.com/badges/fc3c4afa-31ea-49cf-8102-ac469babd621) and passed that course and exam as well.  Now the last course in the series was [Beyond the Basics: Istio and IBM Cloud Kubernetes Service](https://www.credly.com/badges/7442ffab-c391-4dad-9a71-9cf417507083) and again which completed and passed the exam.  With all three courses completed and exams passed I earned the certification [Containers, K8s and Istio on IBM Cloud](https://www.credly.com/badges/3b88cd8e-193b-41f0-9d9f-c92bf1b0e053), becoming the first person in Turbonomic with an IBM Cloud certification!  Overall the courses were not too difficult as the bulk of what I had to learn about was specific to IBM Cloud and Istio, my existing knowledge of Kubernetes and Docker really helped with passing the exams in each of these.
 
 **June 9, 2021** - I decided to attempt the Gremlin Certified Chaos Engineering Practitioner exam as I was looking on LinkedIn and found that Gremlin was offering this new exam for free for a limited time.  I learned about Gremlin and their Chaos Engineering from one of the virtual conferences I attended and really liked the concept and wanted to learn more.  I studied for a few days and attempted the exam and sure enough I was able to [pass the exam to earn this certification!](https://www.credential.net/899958b7-8a62-4d68-9e46-22a4b25d101b#gs.8dku72).  Pretty cool as now I am a certified Gremlin and I got the shirt to prove it!!
 
