@@ -1,6 +1,6 @@
 ## Welcome to Shawsers Tech Certification Journey!
 
-Hi everyone, below I would like to share my experience in 2020 and 2021 and writing IT exams again after many years.
+Hi everyone, below I would like to share my experience starting in 2020 with writing IT exams again after many years.
 
 First some of my social info and how you can contact me:  
 **LinkedIn** - [https://www.linkedin.com/in/shawsers/](https://www.linkedin.com/in/shawsers)  
