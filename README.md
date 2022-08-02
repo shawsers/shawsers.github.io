@@ -1,4 +1,4 @@
-## Welcome to Shawsers Tech Blog!
+## Welcome to Shawsers Tech Certification Journey!
 
 Hi everyone, below I would like to share my experience in 2020 and 2021 and writing IT exams again after many years.
 
@@ -24,10 +24,11 @@ My certification journey:
 
 **June 9, 2021** - I decided to attempt the Gremlin Certified Chaos Engineering Practitioner exam as I was looking on LinkedIn and found that Gremlin was offering this new exam for free for a limited time.  I learned about Gremlin and their Chaos Engineering from one of the virtual conferences I attended and really liked the concept and wanted to learn more.  I studied for a few days and attempted the exam and sure enough I was able to [pass the exam to earn this certification!](https://www.credential.net/899958b7-8a62-4d68-9e46-22a4b25d101b#gs.8dku72).  Pretty cool as now I am a certified Gremlin and I got the shirt to prove it!!
 
+**March 18, 2022** - After a long break from studying for exams, I decided to start studying again before our family vacation in March.  I knew if I waited until after the vacation I would kind of have to start over with studying.  So I forged ahead and studyed every night during the week and every weekend leading up to the vacation.  I was originally planning on studying for and writing the Google Cloud Digital Leader exam, but a co-worker of mine pushed me to write the Google Cloud Associate Cloud Engineer exam instead.  I was initially unsure, but after some time looking into it and with my many years of past cloud experience and AWS and Azure exams that I passed I decided to do it.  Which meant taking a few more in depth courses on Udemy, but I found that it wasn't too bad going deeper and the concept were very similar to that of AWS and Azure and was really learning more about specific Google Cloud services and mentally matching them to the similar AWS and Azure services to make studying easier.  I registered for the exam on Wedesday, March 9 at 6PM, I was nervous but felt ready to write the exam.  After almost a full 2 hours I completed the exam making sure the toake extra time to review my answers, I felt pretty good about how the exam went.  After submitting my results.....I PASSED!!  This was awesome, as I was leaving for vacation the next day and was a great way to start the trip!!  Officially it took about a week for Google to review my exam and results and receive my certification on Marh 18 during my trip, but I was on high the entire trip knowing that I had passed and have another cloud certification!!
+
 Next up is focusing on Kubernetes with some free/cheap courses to start:
 - Certified Calico Operator
 - Rancher Operator: Level 1
-- Google Cloud Digital Leader
 
 My long term plan is the following paid courses and exams (in no particular order), after the two above...
 - AWS Solution Architect Associate
